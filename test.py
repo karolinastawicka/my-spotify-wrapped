@@ -10,3 +10,7 @@ d["do"] = "dods"
 d["el"] = "elephants"
 
 print(d)
+
+
+def karo_func:
+    pass
