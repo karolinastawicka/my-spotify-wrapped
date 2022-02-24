@@ -1,3 +1,10 @@
 .vscode
 .ipynb_checkpoints
+.cache
 data
+notebooks/search_podcast.csv
+notebooks/spotify_audio_features_2021.csv
+notebooks/spotify_my_streaming_history_2021.csv
+notebooks/spotify_my_streaming_history_2021_enriched.csv
+notebooks/spotify_my_streaming_history_2021_enriched_w_pod.csv
+notebooks/spotify_podcasts_2021.csv
