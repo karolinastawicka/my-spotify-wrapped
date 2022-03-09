@@ -1,11 +1,11 @@
-# My Spotify Wrapped
+## My Spotify Wrapped
 
 In this project contains 3 notebooks:
 1. Data Prep
 2. Data Analysis + Charts
 3. Bar Chart Race  
 
-### 1. The Data Prep
+#### 1. The Data Prep
 The goal of the _Data Prep.ipynb_ notebook is to:
 * import the Streaming History requested from Spotify,
 * merge it into 1 data frame,
